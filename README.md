@@ -1,4 +1,4 @@
 # Anusha_demo
-my first github repo
+My first github repository.
 <br>
-Author Anusha Hajari
+Author-Anusha Hajari
